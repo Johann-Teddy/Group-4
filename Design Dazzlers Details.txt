@@ -35,3 +35,7 @@ Extreme Programming- Extreme Programming (XP) is an agile software development f
 Aviwe Mhlatyana: 
 RAD(Rapid Application Development) - This methadology uses rapid prototyping without much planning to kick start the development of a prototype so the developers can know how the app will function.
 Spiral Model - Is a method which is used for risk analysis and risk management and it combines the iterative development process model with elements of the Waterfall model. 
+
+Hlompho Skhosana:
+Rational Unified Processis a systematic way to allocate tasks and responsibilities within a development team that offers best practices and guidelines for effective software development. I
+Feature Driven Development (FDD) is an agile framework that, as its name suggests, organizes software development around making progress on features.
