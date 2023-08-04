@@ -21,3 +21,10 @@ Team Member 3 :Dalisto Simukoko, Zambia(Kitwe), becoming a software Engineer, Gy
 Team Member 4 :Hlompho-Lucky Skhosana,Port Elizabeth,Becoming a programmer,gaming ,reading
 
 Team Member 5 :
+
+Task 1:
+
+Johann-Teddy Ferreira:
+Waterfall model= The waterfall model uses a logical progression of SDLC steps for a project, similar to the direction water flows over the edge of a cliff. It sets distinct endpoints or goals for each phase of development. Those endpoints or goals can't be revisited after their completion.
+Agile= Agile Software Development Life Cycle (SDLC) is the combination of both iterative and incremental process models. It focuses on process adaptability and customer satisfaction by rapid delivery of working software product. Agile SDLC breaks down the product into small incremental builds.
+
