@@ -1,0 +1,25 @@
+1. Figma is a versatile design tool that allows real-time collaboration on design and prototyping. It's widely used for creating interactive and dynamic prototypes.
+
+2. Adobe XD is another popular choice for creating interactive prototypes and user experiences. It offers a range of tools for designing and prototyping user interfaces.
+
+3. InVision Studio provides powerful prototyping features along with animation and collaboration tools, making it suitable for creating interactive and animated prototypes.
+
+4. Balsamiq is known for its simple and low-fidelity wireframing capabilities. It's great for quickly sketching out ideas and user interfaces.
+
+5. Sketch While Sketch is primarily a design tool for macOS, it also supports prototyping through plugins like Craft by InVision. It's widely used for creating user interfaces and interactive prototypes.
+
+6. Axure RP (Free Trial) Axure RP offers a free trial that allows you to create sophisticated interactive prototypes and wireframes. It's particularly powerful for creating complex interactions.
+
+7. MockFlow - MockFlow is a user-friendly platform that offers wireframing and prototyping tools for web and mobile applications.
+
+8. Marvel - Marvel is a web-based platform that enables you to create interactive prototypes with ease, making it suitable for designers and developers alike.
+
+9. Proto.io (Free Trial)Proto.io offers a free trial for creating interactive prototypes with advanced animations and interactions.
+
+10. Origami Studio Developed by Facebook, Origami Studio is a powerful prototyping tool for creating interactive user interfaces and animations.
+
+11. Justinmind (Free Version) Justinmind provides a free version for creating interactive and dynamic prototypes with a wide range of design elements.
+
+12. Framer (Free Trial) Framer offers a free trial for creating interactive prototypes with advanced animations and interactions.
+
+Some of these tools have limitations in their free versions or offer free trials with additional features available in paid versions. It's a good idea to explore a few of them to find the one that best suits your prototyping needs and preferences.
