@@ -43,3 +43,17 @@ Feature Driven Development (FDD) is an agile framework that, as its name suggest
 Ayabonga Kemese:
 DSDM [Dynamic System Development Method] an Agile method that focuses on the full project lifecycle.DSDM has a broader focus than most other Agile approaches in that it deals with projects rather than just the development and delivery of a product
 Lean -  a continuous improvement methodology that is a systematic approach to identifying and eliminating waste in processes to deliver more value to customers with fewer resources.
+
+Task 2:
+
+Johann-Teddy Ferreira:
+Throwaway prototyping is the process of creating prototype versions of a product, or a single element of a product, to test specific ideas and concepts. With 'throw-away' prototyping a small part of the system is developed and then given to the end user to try out and evaluate. The user provides feedback which can quickly be incorporated into the development of the main system. The prototype is then discarded or thrown away.
+
+Task 3:
+
+Johann-Teddy Ferreira:
+Low-fidelity (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artefacts. Example: sketches.
+
+Pros= Inexpensive, Fast, Collaborative, Clarifying
+Cons= Uncertainty during testing, Limited interactivity
+
