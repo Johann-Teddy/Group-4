@@ -74,32 +74,13 @@ interactive and dynamic prototypes.
 2. Obsidian is a versatile note-taking and knowledge management application that aids prototypers in capturing ideas, organizing
 concepts, and maintaining a contextual repository for their projects.
 
-3. Adobe XD is another popular choice for creating interactive prototypes and user experiences. It offers a range of tools for designing 
-and prototyping user interfaces.
-
-4. InVision Studio provides powerful prototyping features along with animation and collaboration tools, making it suitable for creating 
+3. InVision Studio provides powerful prototyping features along with animation and collaboration tools, making it suitable for creating 
 interactive and animated prototypes.
 
-5. Balsamiq is known for its simple and low-fidelity wireframing capabilities. It's great for quickly sketching out ideas and user interfaces.
+4. Balsamiq is known for its simple and low-fidelity wireframing capabilities. It's great for quickly sketching out ideas and user interfaces.
 
-6. Sketch While Sketch is primarily a design tool for macOS, it also supports prototyping through plugins like Craft by InVision. It's 
-widely used for creating user interfaces and interactive prototypes.
+5. MockFlow - MockFlow is a user-friendly platform that offers wireframing and prototyping tools for web and mobile applications.
 
-7. Axure RP (Free Trial) Axure RP offers a free trial that allows you to create sophisticated interactive prototypes and wireframes. 
-It's particularly powerful for creating complex interactions.
-
-8. MockFlow - MockFlow is a user-friendly platform that offers wireframing and prototyping tools for web and mobile applications.
-
-9. Marvel - Marvel is a web-based platform that enables you to create interactive prototypes with ease, making it suitable for designers 
-and developers alike.
-
-10. Proto.io (Free Trial)Proto.io offers a free trial for creating interactive prototypes with advanced animations and interactions.
-
-11. Origami Studio Developed by Facebook, Origami Studio is a powerful prototyping tool for creating interactive user interfaces and animations.
-
-12. Justinmind (Free Version) Justinmind provides a free version for creating interactive and dynamic prototypes with a wide range of design elements.
-
-13. Framer (Free Trial) Framer offers a free trial for creating interactive prototypes with advanced animations and interactions.
 
 Some of these tools have limitations in their free versions or offer free trials with additional features available in paid versions. It's a
 good idea to explore a few of them to find the one that best suits your prototyping needs and preferences.
