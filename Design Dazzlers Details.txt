@@ -53,6 +53,7 @@ Low-fidelity (lo-fi) prototyping is a quick and easy way to translate high-level
 
 Pros= Inexpensive, Fast, Collaborative, Clarifying
 Cons= Uncertainty during testing, Limited interactivity
+
 Ayabonga Kemese:
 2. Medium Fidelity Prototype adds more details and functionality compared to a low fidelity version. It could involve 
 digital wireframes or interactive mockups created using design tools. In the context of game development, a medium 
