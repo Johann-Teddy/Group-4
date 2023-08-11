@@ -23,7 +23,12 @@ Task 1(SDLC Methadologies):
 
 Johann-Teddy Ferreira:
 Waterfall model= The waterfall model uses a logical progression of SDLC steps for a project, similar to the direction water flows over the edge of a cliff. It sets distinct endpoints or goals for each phase of development. Those endpoints or goals can't be revisited after their completion.
+
 Agile= Agile Software Development Life Cycle (SDLC) is the combination of both iterative and incremental process models. It focuses on process adaptability and customer satisfaction by rapid delivery of working software product. Agile SDLC breaks down the product into small incremental builds.
+
+Prototyping model= As per the name suggests, prototypes are created to visualize the functionality and components of the software. In this methodology, a working prototype of the web application is created before initiating the actual development. These prototypes are sent to the customer for feedback and then necessary changes are made. This cycle of prototyping and updating as per customer’s feedback is repeated till the accurate prototype is achieved for the development.
+
+Joint Application Development= This methodology works on a simple philosophy – involving the client and end-user in the development process results in a project that is more aligned and suitable to their needs. Joint Application Development Model brings the developers, clients and other stakeholders together through a series of meetings that are called JAD sessions. These collaborative workshops help to define the requirements more clearly and from different viewpoints of business, end-user as well as developers.
 
 Aviwe Mhlatyana: 
 RAD(Rapid Application Development) - This methadology uses rapid prototyping without much planning to kick start the development of a prototype so the developers can know how the app will function.
