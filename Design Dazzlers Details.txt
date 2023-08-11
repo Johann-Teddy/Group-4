@@ -88,7 +88,9 @@ with clickable buttons, working forms, and dynamic content.
 
 the choice of fidelity depends on the stage of the design process, the specific goals of the prototype, and the resources available.
 Each level has its own benefits and use cases, and they can be used in combination to iteratively refine and improve the design.
+
 Task 4:
+
 Ayabonga Kemese :
 1. Figma is a versatile design tool that allows real-time collaboration on design and prototyping. It's widely used for creating
 interactive and dynamic prototypes.
@@ -107,6 +109,3 @@ interactive and animated prototypes.
 
 Some of these tools have limitations in their free versions or offer free trials with additional features available in paid versions. It's a
 good idea to explore a few of them to find the one that best suits your prototyping needs and preferences.
-
-
-
