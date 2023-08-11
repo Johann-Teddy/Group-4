@@ -61,6 +61,12 @@ The three stages of extreme prototyping:
 
 3: Finalize the production by implementing the service layers
 
+
+Dalisto Simukoko:
+Evolutionary Prototyping- In this prototyping the user is presented with an initial prototype. The users feedback is used to modify the prototype to make improvements. In this type of prototype methodology the final product is developed in increments acccording to the feedback from users until the final product is made.
+
+Incremental Prototyping- This type of prototyping can be likened to building blocks. It incrementing each time a new component is added or integrated based on the overall design. End Users and Clients are able to test the developed components and their functions.it also provides the opportunities for feedback while the other components are still in development.
+
 Task 3:
 
 Johann-Teddy Ferreira:
@@ -102,9 +108,5 @@ interactive and animated prototypes.
 Some of these tools have limitations in their free versions or offer free trials with additional features available in paid versions. It's a
 good idea to explore a few of them to find the one that best suits your prototyping needs and preferences.
 
-task 2
-Dalisto Simukoko:
-Evolutionary Prototyping- In this prototyping the user is presented with an initial prototype. The users feedback is used to modify the prototype to make improvements. In this type of prototype methodology the final product is developed in increments acccording to the feedback from users until the final product is made.
 
-Incremental Prototyping- This type of prototyping can be likened to building blocks. It incrementing each time a new component is added or integrated based on the overall design. End Users and Clients are able to test the developed components and their functions.it also provides the opportunities for feedback while the other components are still in development.
 
