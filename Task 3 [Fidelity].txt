@@ -1,15 +1,27 @@
-Prototype fidelity refers to the level of detail and realism present in a prototype, which can vary from low to high fidelity. It impacts how closely the prototype resembles the final product and how well it communicates its intended functionality. Here are three levels of prototype fidelity:
+Prototype fidelity refers to the level of detail and realism present in a prototype,
+which can vary from low to high fidelity. It impacts how closely the prototype resembles the final product and how well 
+it communicates its intended functionality. Here are three levels of prototype fidelity:
 
 1.Low Fidelity Prototype
 
-A low fidelity prototype is a basic and simplified representation of the final product. It often involves sketches, paper prototypes, or wireframes. For example, if you were designing a new mobile app, a low fidelity prototype might consist of hand-drawn sketches of the app's main screens, showing the layout and basic interactions without much visual detail.
+A low fidelity prototype is a basic and simplified representation of the final product. It often involves
+sketches, paper prototypes, or wireframes. For example, if you were designing a new mobile app, a low fidelity 
+prototype might consist of hand-drawn sketches of the app's main screens, showing the layout and basic interactions
+without much visual detail.
 
 2. Medium Fidelity Prototype
 
-A medium fidelity prototype adds more details and functionality compared to a low fidelity version. It could involve digital wireframes or interactive mockups created using design tools. In the context of game development, a medium fidelity prototype of a game might include digital representations of game levels with basic graphics and interactions, allowing testers to navigate and interact with the environment.
+A medium fidelity prototype adds more details and functionality compared to a low fidelity version. It could involve 
+digital wireframes or interactive mockups created using design tools. In the context of game development, a medium 
+fidelity prototype of a game might include digital representations of game levels with basic graphics and interactions,
+allowing testers to navigate and interact with the environment.
 
 3.High Fidelity Prototype
 
-A high fidelity prototype closely resembles the final product in terms of design, interactions, and functionality. It often includes realistic graphics, animations, and even functional elements. For instance, if you were working on a web application, a high fidelity prototype could involve a fully interactive and visually polished version of the app, complete with clickable buttons, working forms, and dynamic content.
+A high fidelity prototype closely resembles the final product in terms of design, interactions, and functionality. It 
+often includes realistic graphics, animations, and even functional elements. For instance, if you were working on a web 
+application, a high fidelity prototype could involve a fully interactive and visually polished version of the app, complete
+with clickable buttons, working forms, and dynamic content.
 
-the choice of fidelity depends on the stage of the design process, the specific goals of the prototype, and the resources available. Each level has its own benefits and use cases, and they can be used in combination to iteratively refine and improve the design.
+the choice of fidelity depends on the stage of the design process, the specific goals of the prototype, and the resources available.
+Each level has its own benefits and use cases, and they can be used in combination to iteratively refine and improve the design.
