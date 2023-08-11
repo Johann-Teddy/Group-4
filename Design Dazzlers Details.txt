@@ -46,7 +46,7 @@ Task 2:
 Johann-Teddy Ferreira:
 Throwaway prototyping is the process of creating prototype versions of a product, or a single element of a product, to test specific ideas and concepts. With 'throw-away' prototyping a small part of the system is developed and then given to the end user to try out and evaluate. The user provides feedback which can quickly be incorporated into the development of the main system. The prototype is then discarded or thrown away.
 
-Hlompho Lucky Skhosana
+Hlompho Lucky Skhosana:
 Extreme prototyping is specifically used in web development and divided into three stages, with the second stage being the most important. Critical to these stages are the various layers of an extreme prototype model: the presentation layer or user interface and service layers – communication, business logic and authorization.
 
 The process is called Extreme Prototyping to draw attention to the second phase of the process, where a fully functional UI is developed with very little regard to the services other than their contract.
