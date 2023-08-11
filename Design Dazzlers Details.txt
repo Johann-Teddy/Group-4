@@ -71,7 +71,6 @@ Task 3:
 
 Johann-Teddy Ferreira:
 Low-fidelity (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artefacts. Example: sketches.
-
 Pros= Inexpensive, Fast, Collaborative, Clarifying
 Cons= Uncertainty during testing, Limited interactivity
 
