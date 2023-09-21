@@ -19,7 +19,7 @@ Team Member 4 :Hlompho-Lucky Skhosana,Port Elizabeth,Becoming a programmer,gamin
 
 Team Member 5 :Kemese Ayabonga, Peddie, Becoming a network Engineer, {Gaming, Reading, gym}, laptop, book.
 
-Task 1(SDLC Methadologies):
+Task 1(SDLC Methodologies):
 
 Johann-Teddy Ferreira:
 Waterfall model= The waterfall model uses a logical progression of SDLC steps for a project, similar to the direction water flows over the edge of a cliff. It sets distinct endpoints or goals for each phase of development. Those endpoints or goals can't be revisited after their completion.
